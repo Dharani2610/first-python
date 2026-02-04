@@ -1,0 +1,7 @@
+print("hello, python!")
+print("this is my first python program in visual studio")
+name = input("enter your name:")
+print("welcome,",name)
+a = int(input("enter first number:"))
+b = int(input("enter snd number:"))
+print("sum =",a +b)
